@@ -1,0 +1,216 @@
+# Copyright (C) 2023 GeekSeller.com
+# This file is distributed under the GPL2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Multichannel for WooCommerce 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/multichannel-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-01-26T17:15:17+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: multichannel-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "Multichannel for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin turns your WooCommerce into a multichannel order management hub, connecting to Walmart, Amazon, eBay, Overstock, Etsy, and other platforms."
+msgstr ""
+
+#. Author of the plugin
+msgid "GeekSeller.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.geekseller.com"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:42
+msgid "Settings"
+msgstr ""
+
+#. translators: %s is replaced with a link to the plugin settings
+#: multichannel-for-woocommerce.php:56
+msgid "Transform your WooCommerce store into a multichannel hub. Complete the setup of the %s plugin."
+msgstr ""
+
+#: multichannel-for-woocommerce.php:70
+msgid "Your connection with GeekSeller has been set up."
+msgstr ""
+
+#: multichannel-for-woocommerce.php:114
+#: multichannel-for-woocommerce.php:117
+msgid "Plugin status:"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:115
+msgid "Manage integrations"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:117
+msgid "not registered"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:118
+msgid "Register Now"
+msgstr ""
+
+#. translators: %s is replaced with the email link
+#: multichannel-for-woocommerce.php:166
+msgid "API keys for Multichannel for WooCommerce could not be generated. Please contact %s to report it."
+msgstr ""
+
+#. translators: %s is replaced with the email link
+#: multichannel-for-woocommerce.php:188
+#: multichannel-for-woocommerce.php:199
+msgid "An error occurred while registering your account on GeekSeller. Please contact %s to report it."
+msgstr ""
+
+#. translators: %s is replaced with the email link
+#: multichannel-for-woocommerce.php:236
+#: multichannel-for-woocommerce.php:247
+msgid "We could not redirect you to the Manage Integrations page. Please try again later, if the error persists please contact %s to report it."
+msgstr ""
+
+#: multichannel-for-woocommerce.php:267
+#: multichannel-for-woocommerce.php:329
+msgid "Missing shipment data"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:408
+msgid "Marketplace Status"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:411
+msgid "Source"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:414
+msgid "Marketplace Order ID"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:465
+msgid "You already generated at least one shipping label for this order using WooCommerce Shipping & Tax plugin."
+msgstr ""
+
+#: multichannel-for-woocommerce.php:467
+msgid "You already added at least one tracking number for this order using WooCommerce Shipment Tracking."
+msgstr ""
+
+#: multichannel-for-woocommerce.php:486
+msgid "Warning:"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:491
+msgid "Source:"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:495
+msgid "Order ID:"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:499
+msgid "Alt Order ID:"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:503
+msgid "Order date:"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:507
+msgid "Marketplace status:"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:511
+msgid "Requested carrier:"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:515
+msgid "Requested shipping method:"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:519
+msgid "Ship by:"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:523
+msgid "Requested delivery date:"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:539
+msgid "Delete"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:568
+msgid "Add Tracking Number"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:572
+msgid "Carrier:"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:585
+msgid "Method:"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:598
+msgid "Tracking number:"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:602
+msgid "Tracking URL:"
+msgstr ""
+
+#. translators: %s is replaced with the time zone abbreviation or offset
+#: multichannel-for-woocommerce.php:606
+msgid "Shipment date (%s):"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:615
+msgid "Change order status to Completed"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:617
+msgid "Save"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:623
+msgid "Order Details"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:631
+msgid "Order Shipment"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:683
+msgid "Filter by source"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:697
+msgid "Filter by marketplace status"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:698
+msgid "Open"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:699
+msgid "In progress"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:700
+msgid "Shipped"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:701
+msgid "Cancelled"
+msgstr ""
+
+#: multichannel-for-woocommerce.php:768
+msgid "Invalid nonce"
+msgstr ""
